@@ -1,5 +1,5 @@
 # awesome-meebits
-A collection of awesome resources, tools and fun facts about meebs.
+A collection of awesome resources, tools and fun facts about meebits.
 
 ## Official resources
 - [meebits.app](https://meebits.app): The original website from Larva Labs.
