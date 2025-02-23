@@ -7,4 +7,4 @@ A collection of awesome resources, tools, and fun facts about Meebits.
 - [the meebits podcast](https://www.youtube.com/@TheMeebits): A series of podcasts about Meebs.
 
 ## Community apps
-- [meebcam](https://meeb.cam): Take pictures with your Meebs and play with them in a 3D playground.
+- [meebcam](https://meeb.cam): Wear your meebs as face filters, play with them in a 3D playground.
